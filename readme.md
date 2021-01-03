@@ -7,7 +7,7 @@ Main Source:
 
 [Pass the AWS Developer Associate Exam With This Free 16-Hour Course](https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course/)
 
-- Video Bookmark: 26:44 (Deployment Policies)
+- Video Bookmark: 59:03 (EB - Cloud9 Setup)
 
 Secondary Sources:
 
